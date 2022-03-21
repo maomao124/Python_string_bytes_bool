@@ -22,3 +22,5 @@ if __name__ == '__main__':
     print(bool4)
     bool5 = bool1 + 5
     print(bool5)
+
+    input()

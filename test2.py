@@ -31,3 +31,5 @@ if __name__ == '__main__':
     # 通过 encode() 方法将字符串转换成 bytes
     b5 = "hello".encode('UTF-8')
     print(b5)
+
+    input()

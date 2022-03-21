@@ -31,3 +31,5 @@ if __name__ == '__main__':
     print(str4)
     str5 = r'D:\Program Files\Python 3.9.5\python.exe'
     print(str5)
+
+    input()
